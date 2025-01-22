@@ -2,7 +2,7 @@
 Fart around and find out
 
 ### Requirements
-* SMAPI (4.0 or up)
+* SMAPI
 * Content Patcher
 
 ### Download
