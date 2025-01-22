@@ -6,7 +6,7 @@ Fart around and find out
 * Content Patcher
 
 ### Config options
-- ``SoundON``: true/fase. If for some reason you are sick of the sound you can turn it off temporarily
+- ``SoundON``: true/false. If for some reason you are sick of the sound you can turn it off temporarily
 
 ### Download
 
